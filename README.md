@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi there! 👋 I'm VISHAL M<br><br>> *"Remember you asked for growth, don't be surprised when life challenges you."* 🕷️<br><br>I am a developer based in Puducherry, currently pursuing my B.Tech in Computer Science and Engineering at Pondicherry University. I am deeply passionate about software engineering, robotics, and open-source culture. Ultimately, my goal is to become a game developer, and I am actively learning and building my technical skill set to create high-performance, real-time interactive experiences.<br><br>### 🔭 What I'm Currently Working On<br><br>* **Anzen AI:** Developing a cloud-native automated security vulnerability scanner. It is capable of fetching and scanning GitHub repositories for vulnerabilities across 35+ programming languages, utilizing AI-powered algorithms to return structured JSON outputs. I am engineering this for multi-platform access via web, VS Code, and Telegram.<br>* **Tobu:** Building a local-first, distributed audio-visual indexing framework. This FOSS project acts as a search engine for spoken content, relying on on-device inference to convert unstructured multimedia into text-navigable databases while maximizing privacy.<br>* **Community Leadership:** Serving as a Developer Advocate for the university's FOSS Club. I established and lead the FOSS United chapter, organizing technical workshops and hackathons for a community of 100+ students.<br>* **Web & Startup Development:** Acting as the Technical Lead and Developer for an educational consultancy. I engineer the company's responsive website, optimize UI/UX design, and direct digital content creation including video editing and professional poster design.<br><br>### 🏆 Milestones & Achievements<br><br>* **2nd Runner-up, IIT Bhubaneswar Hackathon:** Developed an autonomous navigation system for a Boston Dynamics Spot robot during a 24-hour simulation challenge, utilizing SLAM and ROS2-based path planning.<br><br>### 💻 Tech Stack & Skills<br><br>* **Programming Languages:** Python, JavaScript, Java, C, C++, Assembly (8085/8086), SQL.<br>* **Robotics & Hardware:** ROS2, Gazebo, RViz, SLAM, Path Planning, Microprocessors.<br>* **Web Development:** React.js, HTML5, CSS3, Flask.<br>* **Tools & Platforms:** Git/GitHub, Linux (FOSS), Docker, Node-RED, MQTT.<br>* **Design & Media:** UI/UX Design, Video Editing, Poster Design.<br><br>### 📫 Let's Connect!<br><br>* **Email:** vishal300406@gmail.com<br>* **Phone:** +91-7449229428<br>* **Pronouns:** he/him<br><br>---<br>⭐️ *Always learning, always building.*
 
-<!--
-**Valiant-Vishal/Valiant-Vishal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/x.mr.valiant.x/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishal-webdeveloper/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishal300406@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Valiant-Vishal&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Valiant-Vishal&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Valiant-Vishal&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Valiant-Vishal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Valiant-Vishal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=Valiant-Vishal&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
